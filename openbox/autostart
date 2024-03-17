@@ -1,0 +1,4 @@
+#!/usr/bin/sh
+
+sh /home/hachem/.config/startup.sh
+
