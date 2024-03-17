@@ -1,0 +1,52 @@
+window:
+    padding:
+        x: 10
+        y: 10
+    dynamic_padding: true
+
+font:
+    normal:
+      family: Cascadia Code
+      style: Regular
+    italic:
+      family: Cascadia Code
+      style: Italic
+    bold:
+      family: Cascadia Code
+      style: Bold
+    bold italic:
+      family: Cascadia Code
+      style: Bold Italic
+
+    size: 8.0
+
+colors:
+  primary:
+    background: '0x020202'
+    foreground: '0xffffff'
+  cursor:
+    text: '0x000000'
+    cursor: '0xffff00'
+  normal:
+    black:   '0x222222'
+    red:     '0xfe0100'
+    green:   '0x33ff00'
+    yellow:  '0xfeff00'
+    blue:    '0x0066ff'
+    magenta: '0xcc00ff'
+    cyan:    '0x00ffff'
+    white:   '0xd0d0d0'
+  bright:
+    black:   '0x808080'
+    red:     '0xfe0100'
+    green:   '0x33ff00'
+    yellow:  '0xfeff00'
+    blue:    '0x0066ff'
+    magenta: '0xcc00ff'
+    cyan:    '0x00ffff'
+    white:   '0xFFFFFF'
+
+draw_bold_text_with_bright_colors: false
+live_config_reload: true
+dynamic_title: true
+
